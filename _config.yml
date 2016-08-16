@@ -17,4 +17,8 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/68ef2078-ae18-4355-bc74-ddac61dbea36.exe
 name: 'COCEGSA (Criadero Ovino-Caprino El Gaital, S.A.)'
+navigation:
+  - name: AGOVICA
+    url: 'http://www.agovica.com'
+    type: external
 title: Genética ovina y caprina de primera
