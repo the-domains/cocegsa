@@ -1,4 +1,3 @@
-layout_spectrum: 0.6866984153166413
 typography_spectrum: 0.24632000899873674
 color:
   brandStrength: 0.11086506117135286
@@ -11,4 +10,11 @@ color:
     - '#FDE792'
     - '#477725'
     - '#A9CC66'
-name: COCEGSA
+layout_spectrum: 0.6866984153166413
+author:
+  name: Richard Bennett
+  email: bennettr63@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/68ef2078-ae18-4355-bc74-ddac61dbea36.exe
+name: 'COCEGSA (Criadero Ovino-Caprino El Gaital, S.A.)'
+title: Genética ovina y caprina de primera
